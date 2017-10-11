@@ -1,0 +1,23 @@
+h1 { font-size: 250%;
+     font-weight: bold;
+     color: MediumSeaGreen }
+	 body { background: Gray;
+       color: white;
+       font-size: 14pt; }
+	   .title { font-weight: bold;
+		 text-decoration: underline; }
+.special { color: darkgreen }
+	body{font-family:'Ultra', sans-serif;}
+	
+	.clearfix {
+    overflow: auto;
+}
+	div {
+    clear: left;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+div { yext- align: center}
